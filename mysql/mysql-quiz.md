@@ -554,7 +554,7 @@ WHERE MATCH(address) AGAINST ('street, drive');
 - [ ] INOUT
 - [ ] IN
 - [ ] OUT
-- [ ] IN OUT
+- [x] IN OUT
 
 #### Q72. What is the advantage of using a temporary table instead of a heap table?
 - [ ] The temporary table will be dropped when the database is restarted.
